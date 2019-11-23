@@ -1,4 +1,11 @@
 # Homework_Group9_TTDPT
+# Member group 9
+	* Nguyễn Thị Hoài B6
+	* Ngô Thị Hiền B3
+	* Nguyễn Thị Thu Hà B1
+	* Hà Ngọc Linh B2
+	* Nguyễn Đăng Huy B5
+	* Hoàng Thái Hà B4
 Problem 1:
 
 Problem 2:
