@@ -4,7 +4,20 @@ Problem 1:
 Problem 2:
 
 Problem 3:
+1. Convert to grayscale
+- B1: open file image
+- B2: convert to grayscale with function Image.convert('L')
+- B3: Save file image with file name is color_to_grayscale.jpg
 
+2. Split to three file of three channels is R, G, B (not found channel A)
+- B1: Open file image
+- B2: Split image with function Image.Image.split()
+- B3: Save file image with file name: red_image.jpg, green_image.jpg, blue_image.jpg
+
+3. Merge from three file of three channels is R, G, B to the original image
+- B1: Open three file image of three channels R, G, B
+- B2: Merge image with function Image.merge()
+- B3: Save file image with file name: image.jpg
 Problem 4:
 
 Problem 5:
