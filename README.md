@@ -43,7 +43,16 @@ Problem 3:
 Problem 4:
 
 Problem 5:
+Thư viện sử dụng: numpy, matplotlib
 
+	- Bàn cờ vua gồm các ô đen trắng đan xen: run file 51.py
+	
+	- Dải màu  biến đổi từ đỏ đến tím theo chiều ngang: run 52.py
+	  
+	- Dải màu  biến đổi từ đỏ đến tím theo chiều dọc: run 53.py
+	
+	- Dải màu  biến đổi từ đỏ đến tím theo chiều chéo: run 54.py
+	
 Problem 6:
 1. Linear-convolution
 - B1: Run file linear.py
