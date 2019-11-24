@@ -15,6 +15,12 @@ Problem 1:
 -> Generate two file image: sin_s1.jpg, sin_s2.jpg (result)
 
 Problem 2:
+- B1: Run file Generator.py ta thu duoc 12 file wav:
+
+	- C3.wav C3#.wav D3.wav D3#.wav E3.wav F3.wav F3#.wav G3.wav G3#.wav A3.wav A3#.wav B3.wav
+	
+- B2: Run file Player.py
+- B3: Nhập vào số thự tự để play file wav (0 -> 12)
 
 Problem 3:
 1. Convert to grayscale
