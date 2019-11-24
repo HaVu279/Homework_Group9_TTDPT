@@ -27,16 +27,19 @@ Problem 3:
 - B2: Split image with function Image.Image.split()
 - B3: Save file image with file name: red_image.png, green_image.png, blue_image.png
 - B4: Check mode của file with function img.mode()
+
        - if mode == 'RGBA'-> save file image with file name: anpha_image.png
 
 3. Merge from three file of three channels is R, G, B to the original image
 - B1: Open three file image of three channels R, G, B
 - B2: Check exists of file image channel A
 - B3: if exists:
+
       - Open three file image of channel A
       - Merge image with function Image.merge() (4 channels)
       else:
       - Merge image with function Image.merge() (3 channels)
+      
 - B4: Save file image with file name: image.png
 - B5: Compare original image with image.png
 
