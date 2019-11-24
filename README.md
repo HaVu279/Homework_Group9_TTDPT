@@ -46,9 +46,12 @@ Problem 3:
 Problem 4:
 - B1: Run file script.py
 --> Result: generate 4 file image
-
+	2 file ảnh tần số của ảnh gốc
+	
 	- imag.png
 	- real.png
+	
+	khôi phục lại ảnh gốc
 	- recover.png
 	- reconstructed .png
 	
