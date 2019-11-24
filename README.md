@@ -4,8 +4,8 @@
 	* Ngô Thị Hiền B3
 	* Nguyễn Thị Thu Hà B1
 	* Hà Ngọc Linh B2
-	* Nguyễn Đăng Huy B5
-	* Hoàng Thái Hà B4
+	* Nguyễn Đăng Huy B4
+	* Hoàng Thái Hà B5
 	
 Problem 1:
 - B1: Declare variables (A, f, fs, N, n)
