@@ -65,15 +65,15 @@ Problem 6:
 - B5: Compare result by method convolve() in python
 	* Solution 1:
 	
-	1. import numpy as np
-	2. Call function: np.convolve(x, y)
-	3. Compare result
+	- import numpy as np
+	- Call function: np.convolve(x, y)
+	- Compare result
 	
 	* Solution 2:
 	
-	1. from scipy import signal
-	2. Call function: signal.convolve(x, y)
-	3. Compare result
+	- from scipy import signal
+	- Call function: signal.convolve(x, y)
+	- Compare result
 
 2. Cyclic-convolution
 - B1: Run file cyclic.py
