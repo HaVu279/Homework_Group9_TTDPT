@@ -44,12 +44,15 @@ Problem 3:
 - B5: Compare original image with image.png
 
 Problem 4:
-- Run file script.py
-- Result: generate 4 file image
-	imag.png
-	real.png
-	recover.png
-	reconstructed .png
+- B1: Run file script.py
+--> Result: generate 4 file image
+
+	- imag.png
+	- real.png
+	- recover.png
+	- reconstructed .png
+	
+
 Problem 5:
 Thư viện sử dụng: numpy, matplotlib
 
