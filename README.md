@@ -4,7 +4,7 @@
 	* Ngô Thị Hiền B3
 	* Nguyễn Thị Thu Hà B1
 	* Hà Ngọc Linh B2
-	* Nguyễn Đăng Huy B4
+	* Vũ Đăng Huy B4
 	* Hoàng Thái Hà B5
 	
 Problem 1:
@@ -51,8 +51,10 @@ Problem 4:
 	- imag.png
 	- real.png
 	
-	khôi phục lại ảnh gốc
+	Ảnh phục hồi
 	- recover.png
+	
+	Ảnh sau khi được phục hồi
 	- reconstructed .png
 	
 
