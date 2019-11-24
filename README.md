@@ -64,14 +64,14 @@ Problem 6:
 - B4: Result of linear-convolution: [1, 0, 1, 1, 8, 3, 8, 2]
 - B5: Compare result by method convolve() in python
 	* Solution 1:
-	1 import numpy as np
-	2 Call function: np.convolve(x, y)
-	3 Compare result
+	1. import numpy as np
+	2. Call function: np.convolve(x, y)
+	3. Compare result
 	
 	* Solution 2:
-	1 from scipy import signal
-	2 Call function: signal.convolve(x, y)
-	3 Compare result
+	1. from scipy import signal
+	2. Call function: signal.convolve(x, y)
+	3. Compare result
 
 2. Cyclic-convolution
 - B1: Run file cyclic.py
